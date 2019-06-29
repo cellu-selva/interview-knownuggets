@@ -1,0 +1,22 @@
+{
+  "name": "known-nuggets",
+  "version": "1.0.0",
+  "description": "Open the index.html in the root folder in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelvaNathann/knownuggets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelvaNathann/knownuggets/issues"
+  },
+  "homepage": "https://github.com/SelvaNathann/knownuggets#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
